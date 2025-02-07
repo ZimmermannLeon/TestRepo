@@ -1,0 +1,183 @@
+{
+  "company": {
+    "masterData": {
+      "customerNumber": "1234567",
+      "name1": "Acme Corporation",
+      "name2": "",
+      "name3": "",
+      "street": "123 Main St",
+      "postalCode": "90210",
+      "city": "Beverly Hills",
+      "district": "CA",
+      "country": "US",
+      "nielsenDistrict": "123",
+      "phone1": "555-1234",
+      "phone2": "555-5678",
+      "customerSince": "2023-01-01",
+      "customerDeactivatedOn": "",
+      "pzo": "ABC",
+      "manualCustomerFacility": "false",
+      "centralOrderBlock": "false"
+    },
+    "bmiAttributes": {
+      "customerType": "Retail",
+      "customerSince": "2023-01-01",
+      "customerInactiveSince": "",
+      "tobaccoMarketWanted": "true",
+      "multipleOperatorID": "false",
+      "parcelServiceCustomer": "false",
+      "clusterActivation": "true",
+      "phaseActivation": "1",
+      "evaTerminal": "false"
+    },
+    "gvlData": {
+      "gvlName": "John Smith",
+      "gvlEmail": "john.smith@example.com",
+      "gvlPhone": "555-9876",
+      "vlName": "Jane Doe",
+      "vlEmail": "jane.doe@example.com",
+      "vlPhone": "555-4321"
+    },
+    "salesData": {
+      "salesOrganizationID": "123",
+      "divisionID": "456",
+      "distributionChannelID": "789",
+      "tobaccoCustomer": "true",
+      "newProductsService": "false",
+      "deliveryOperationLCID": "123",
+      "salesGroupVL": "A",
+      "mostFrequentOrderDay": "Monday",
+      "deliveryDay": "Tuesday",
+      "priceFile": "price_list_1.pdf"
+    },
+    "functionalPartnerRoles": [
+      {
+        "partnerRoleSAPID": "123",
+        "attributes": {
+          "partnerName": "Partner A",
+          "partnerCustomerNumber": "7890"
+        }
+      }
+    ],
+    "companyCodeData": {
+      "companyCodeTimestamp": "2024-08-24T12:00:00Z",
+      "companyCodeID": "ABC",
+      "paymentTerms": "Net 30",
+      "dunningArea": "North",
+      "dunningLevel": "1",
+      "lastDunningDate": "2024-07-15"
+    },
+    "marketingAttributes": [
+            {
+                "marketingGroupID": "XL",
+                "marketingGroupDescription": "Prosales",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "XXX_AUTOKALK_VERTEIL",
+                        "marketingAttributeDescription": "29 Autokalk Verteilschlüssel",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "KONDITION_RO"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "XXX_0000001272",
+                        "marketingAttributeDescription": "37 Auto. Bestätigung E-Mail",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "3"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "XXX_0000001449",
+                        "marketingAttributeDescription": "38 Auffälliger Kunde (40 Euro",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "XXX_0000001483",
+                        "marketingAttributeDescription": "39 LC",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "01"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "XX_KBS",
+                "marketingGroupDescription": "Kundenbetreuungsstrategie VDZ",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "XX_KUNDENXXXXXXXXXXX",
+                        "marketingAttributeDescription": "31 Kundenxxxxxxxxxxx",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1001"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "XX_KUNDENXXXXXXXXX",
+                "marketingGroupDescription": "Kundenbefragung",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "XXX_0000000307",
+                        "marketingAttributeDescription": "01 Kundenbefragung xxxxxxxxxx",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "2"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "XX_SERVICEXXXXXXXX",
+                "marketingGroupDescription": "Servicevereinbarung",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "XXX_0000000311",
+                        "marketingAttributeDescription": "01 Servicevereinbarung zugesti",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "3"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "XXX_XXX_0000000164",
+                "marketingGroupDescription": "Net Promoter Score",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "XXX_0000001887",
+                        "marketingAttributeDescription": "NPS aktuell",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "10"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "XXX_0000001918",
+                        "marketingAttributeDescription": "NPS Datum (JJJJ MM)",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "202310"
+                    }
+                ]
+            }
+        ],
+    "contact": [
+      {
+        "sapContactID": "108204",
+        "salutation": "Mr.",
+        "title": "CEO",
+        "firstName": "John",
+        "lastName": "Doe",
+        "contactPhone": "123-456-7890",
+        "contactMobileWhatsApp": "",
+        "contactMobile": "0176-12345678",
+        "email": "john.doe@example.com",
+        "correspondenceLanguageISO": "EN",
+        "functionName": "Chief Executive Officer",
+        "departmentName": "Executive",
+        "sourceSystem": "CRM"
+      }
+    ]
+  }
+}
