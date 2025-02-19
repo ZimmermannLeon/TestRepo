@@ -26,15 +26,22 @@
         "companyCodeData": null,
         "marketingAttributes": [
             {
-                "marketingGroupID": "LL",
-                "marketingGroupDescription": "Prosales",
+                "marketingGroupID": "XXX_XXX_0000000164",
+                "marketingGroupDescription": "Net Promoter Score",
                 "marketingGroupAttributes": [
                     {
                         "marketingAttributeID": 0,
-                        "marketingAttributeName": "xxx_0000001272",
-                        "marketingAttributeDescription": "37 Auto. Bestätigung E-Mail",
+                        "marketingAttributeName": "XXX_0000001887",
+                        "marketingAttributeDescription": "NPS aktuell",
                         "marketingAttributeValueFloat": 0,
-                        "marketingAttributeValue": "3"
+                        "marketingAttributeValue": "10"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "XXX_0000001918",
+                        "marketingAttributeDescription": "NPS Datum (JJJJ MM)",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "202310"
                     }
                 ]
             }
