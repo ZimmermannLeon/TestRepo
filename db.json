@@ -1,18 +1,18 @@
 {
     "company": {
         "masterData": {
-            "customerNumber": "7728458",
-            "name1": "Handler-Markt",
-            "name2": "Groceries",
-            "name3": "",
-            "street": "Test-City-Str. 1",
-            "postalCode": "00000",
-            "city": "Test City",
-            "district": "",
-            "country": "DE",
-            "nielsenDistrict": "4",
-            "phone1": "00000/000000",
-            "phone2": "",
+            "customerNumber": "5238306",
+            "name1": null,
+            "name2": null,
+            "name3": null,
+            "street": null,
+            "postalCode": null,
+            "city": null,
+            "district": null,
+            "country": null,
+            "nielsenDistrict": null,
+            "phone1": null,
+            "phone2": null,
             "customerSince": null,
             "customerDeactivatedOn": null,
             "pzo": null,
@@ -137,19 +137,6 @@
                 ]
             },
             {
-                "marketingGroupID": "EKP1",
-                "marketingGroupDescription": "Einzelkundenplanung Folgejahr",
-                "marketingGroupAttributes": [
-                    {
-                        "marketingAttributeID": 0,
-                        "marketingAttributeName": "SAP_0000001158",
-                        "marketingAttributeDescription": "Einzelkundenplanung BEARBEITET",
-                        "marketingAttributeValueFloat": 0,
-                        "marketingAttributeValue": "JA"
-                    }
-                ]
-            },
-            {
                 "marketingGroupID": "HYBRID-INFO",
                 "marketingGroupDescription": "HYBRID-INFO",
                 "marketingGroupAttributes": [
@@ -159,40 +146,6 @@
                         "marketingAttributeDescription": "HYBRID INFO",
                         "marketingAttributeValueFloat": 0,
                         "marketingAttributeValue": "NUR TABAK"
-                    }
-                ]
-            },
-            {
-                "marketingGroupID": "LL",
-                "marketingGroupDescription": "Prosales",
-                "marketingGroupAttributes": [
-                    {
-                        "marketingAttributeID": 0,
-                        "marketingAttributeName": "LL_LAGE",
-                        "marketingAttributeDescription": "11 Lage (Standort)",
-                        "marketingAttributeValueFloat": 0,
-                        "marketingAttributeValue": "BETRIEB"
-                    },
-                    {
-                        "marketingAttributeID": 0,
-                        "marketingAttributeName": "LL_VFLAECHE",
-                        "marketingAttributeDescription": "12 Verkaufsfläche",
-                        "marketingAttributeValueFloat": 0,
-                        "marketingAttributeValue": ">10 - 50 QM"
-                    },
-                    {
-                        "marketingAttributeID": 0,
-                        "marketingAttributeName": "SAP_0000001272",
-                        "marketingAttributeDescription": "37 Auto. Bestätigung E-Mail",
-                        "marketingAttributeValueFloat": 0,
-                        "marketingAttributeValue": "3"
-                    },
-                    {
-                        "marketingAttributeID": 0,
-                        "marketingAttributeName": "SAP_0000001483",
-                        "marketingAttributeDescription": "39 LC",
-                        "marketingAttributeValueFloat": 0,
-                        "marketingAttributeValue": "26"
                     }
                 ]
             },
@@ -242,19 +195,8 @@
                         "marketingAttributeValue": "2"
                     }
                 ]
-            },
-            {
-                "marketingGroupID": "LL_SERVICEVEREINBA",
-                "marketingGroupDescription": "Servicevereinbarung",
-                "marketingGroupAttributes": [
-                    {
-                        "marketingAttributeID": 0,
-                        "marketingAttributeName": "SAP_0000000311",
-                        "marketingAttributeDescription": "01 Servicevereinbarung zugesti",
-                        "marketingAttributeValueFloat": 0,
-                        "marketingAttributeValue": "2"
-                    }
-                ],
+            }
+        ],
         "contacts": [
             {
                 "sapContactID": "0000012179",
