@@ -26,26 +26,599 @@
         "companyCodeData": null,
         "marketingAttributes": [
             {
-                "marketingGroupID": "XXX_XXX_0000000164",
-                "marketingGroupDescription": "Net Promoter Score",
+                "marketingGroupID": "CONVENIENCE",
+                "marketingGroupDescription": "Convenience",
                 "marketingGroupAttributes": [
                     {
                         "marketingAttributeID": 0,
-                        "marketingAttributeName": "SAP_0000001887",
-                        "marketingAttributeDescription": "NPS aktuell",
+                        "marketingAttributeName": "SAP_0000001586",
+                        "marketingAttributeDescription": "Lage",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "4"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001594",
+                        "marketingAttributeDescription": "Betreiber Charakter",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "4"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001597",
+                        "marketingAttributeDescription": "Shop Charakter",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001600",
+                        "marketingAttributeDescription": "Weitere Tabakkompetenzen",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "8"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001603",
+                        "marketingAttributeDescription": "Anzahl Kühlschränke",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "11"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001606",
+                        "marketingAttributeDescription": "Anzahl Eistruhen",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "11"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001607",
+                        "marketingAttributeDescription": "Anzahl Meter normale Kühlung",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "5"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001608",
+                        "marketingAttributeDescription": "zusätzliche Dienstleistungen",
                         "marketingAttributeValueFloat": 0,
                         "marketingAttributeValue": "10"
                     },
                     {
                         "marketingAttributeID": 0,
-                        "marketingAttributeName": "SAP_0000001918",
-                        "marketingAttributeDescription": "NPS Datum (JJJJ MM)",
+                        "marketingAttributeName": "SAP_0000001613",
+                        "marketingAttributeDescription": "Shop begehbar",
                         "marketingAttributeValueFloat": 0,
-                        "marketingAttributeValue": "202310"
+                        "marketingAttributeValue": "1"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001614",
+                        "marketingAttributeDescription": "Größe Verkaufsfläche",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001615",
+                        "marketingAttributeDescription": "Zweitplatzierung möglich",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "2"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001616",
+                        "marketingAttributeDescription": "Aktionsflächen oder Gondeln",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001617",
+                        "marketingAttributeDescription": "Regalmeter Süßwaren / Food",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001618",
+                        "marketingAttributeDescription": "Kistenmehrweg pro Stopp",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "5"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001619",
+                        "marketingAttributeDescription": "Kassensystem / EDI / Warenwirt",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1"
                     }
                 ]
+            },
+            {
+                "marketingGroupID": "EKP1",
+                "marketingGroupDescription": "Einzelkundenplanung Folgejahr",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001158",
+                        "marketingAttributeDescription": "Einzelkundenplanung BEARBEITET",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "JA"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001124",
+                        "marketingAttributeDescription": "1 Zigaretten Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "16.336"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001125",
+                        "marketingAttributeDescription": "1 Zigaretten Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "7,65"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001126",
+                        "marketingAttributeDescription": "2 Zigarren Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "624"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001128",
+                        "marketingAttributeDescription": "3 Tabak Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "5.333"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001129",
+                        "marketingAttributeDescription": "3 Tabak Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "12,83"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001130",
+                        "marketingAttributeDescription": "4 Getränke Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "798"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001131",
+                        "marketingAttributeDescription": "4 Getränke Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "10,35"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001132",
+                        "marketingAttributeDescription": "5 Süßw/Lebensm Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "60"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001133",
+                        "marketingAttributeDescription": "5 Süßw/Lebensm Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "21,91"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001134",
+                        "marketingAttributeDescription": "6 RBA Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "124"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001135",
+                        "marketingAttributeDescription": "6 RBA Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "28,75"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001136",
+                        "marketingAttributeDescription": "7 Frischware Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001137",
+                        "marketingAttributeDescription": "7 Frischware Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0,00"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001138",
+                        "marketingAttributeDescription": "8 TKK Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001139",
+                        "marketingAttributeDescription": "8 TKK Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0,00"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001140",
+                        "marketingAttributeDescription": "9 Telefonkarten Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001141",
+                        "marketingAttributeDescription": "9 Telefonkarten Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0,00"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001142",
+                        "marketingAttributeDescription": "A Nonfood Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001143",
+                        "marketingAttributeDescription": "A Nonfood Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0,00"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001144",
+                        "marketingAttributeDescription": "B Pausch/Zub/DL Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "13"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001145",
+                        "marketingAttributeDescription": "B Pausch/Zub/DL Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "100,00"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001146",
+                        "marketingAttributeDescription": "C e-va Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001147",
+                        "marketingAttributeDescription": "C e-va Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0,00"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001148",
+                        "marketingAttributeDescription": "D Strecke Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001149",
+                        "marketingAttributeDescription": "D Strecke Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0,00"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001150",
+                        "marketingAttributeDescription": "E Electronic-Value RV-frei Ums",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001151",
+                        "marketingAttributeDescription": "E Electronic-Value RV-frei Nut",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0,00"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001152",
+                        "marketingAttributeDescription": "F Autozubehör Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001153",
+                        "marketingAttributeDescription": "F Autozubehör Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0,00"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001154",
+                        "marketingAttributeDescription": "G Bistro-Module Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001155",
+                        "marketingAttributeDescription": "G Bistro-Module Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0,00"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001156",
+                        "marketingAttributeDescription": "H E-Zigarette Umsatz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001157",
+                        "marketingAttributeDescription": "H E-Zigarette Nutzen %",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "0,00"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "HYBRID-INFO",
+                "marketingGroupDescription": "HYBRID-INFO",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001209",
+                        "marketingAttributeDescription": "HYBRID INFO",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "NUR TABAK"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "LL",
+                "marketingGroupDescription": "Prosales",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_AUTOKALK_VERTEIL",
+                        "marketingAttributeDescription": "29 Autokalk Verteilschlüssel",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "STANDARD"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_LAGE",
+                        "marketingAttributeDescription": "11 Lage (Standort)",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "BETRIEB"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_PLANBESUCHE",
+                        "marketingAttributeDescription": "01 Planbesuche",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "2"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_VFLAECHE",
+                        "marketingAttributeDescription": "12 Verkaufsfläche",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": ">10 - 50 QM"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001272",
+                        "marketingAttributeDescription": "37 Auto. Bestätigung E-Mail",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "3"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001483",
+                        "marketingAttributeDescription": "39 LC",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "26"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "LL24",
+                "marketingGroupDescription": "Lekkerland 24",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_BESTELLT",
+                        "marketingAttributeDescription": "hat schon mal bei LL24 bestell",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "JA"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "LL_KAFFEEKONZEPT",
+                "marketingGroupDescription": "LL_Kaffeekonzept",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001684",
+                        "marketingAttributeDescription": "Bistrokompetenz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001685",
+                        "marketingAttributeDescription": "Bistrokapazität",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001686",
+                        "marketingAttributeDescription": "Bistrotheke",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000001687",
+                        "marketingAttributeDescription": "Kaffeekompetenz",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "LL_KBS",
+                "marketingGroupDescription": "Kundenbetreuungsstrategie VDZ",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_AUFTRAGSERFASSUNG",
+                        "marketingAttributeDescription": "62 Auftragserfassung",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "AKTIVERTES"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_INVENTUREN_BEI_PW",
+                        "marketingAttributeDescription": "65 Inventuren bei PW",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "N"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_KUNDENHAUPTGRUPPE",
+                        "marketingAttributeDescription": "31 Kundenhauptgruppe",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1002"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_KUNDENSEGMENT",
+                        "marketingAttributeDescription": "Kundensegment VKST IST",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "CLUSTER_CB"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_KUNDENTYP",
+                        "marketingAttributeDescription": "32 Kundentyp",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "KONZEPTKAEUFER"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_MARKETINGMASSNAHMEN",
+                        "marketingAttributeDescription": "64 Marketingmaßnahmen",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "AKTIONSVERSAND"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_MARKETINGMASSNAHMEN",
+                        "marketingAttributeDescription": "64 Marketingmaßnahmen",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "LEUTE"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_MARKETINGMASSNAHMEN",
+                        "marketingAttributeDescription": "64 Marketingmaßnahmen",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "MESSEEINLADUNG"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_MARKETINGMASSNAHMEN",
+                        "marketingAttributeDescription": "64 Marketingmaßnahmen",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "TABAKMARKT"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_DB4_IST",
+                        "marketingAttributeDescription": "DB4 VKST IST",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "1.375"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_GEW_VK1",
+                        "marketingAttributeDescription": "Gewichteter VK1 Umsatz VKST IS",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "4.961"
+                    },
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "LL_SOLLKONTAKTE",
+                        "marketingAttributeDescription": "Anzahl Sollkontakte VKST IST",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "12"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "LL_KUNDENBEFRAGUNG",
+                "marketingGroupDescription": "Kundenbefragung",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000000307",
+                        "marketingAttributeDescription": "01 Kundenbefragung zugestimmt",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "2"
+                    }
+                ]
+            },
+            {
+                "marketingGroupID": "LL_SERVICEVEREINBA",
+                "marketingGroupDescription": "Servicevereinbarung",
+                "marketingGroupAttributes": [
+                    {
+                        "marketingAttributeID": 0,
+                        "marketingAttributeName": "SAP_0000000311",
+                        "marketingAttributeDescription": "01 Servicevereinbarung zugesti",
+                        "marketingAttributeValueFloat": 0,
+                        "marketingAttributeValue": "2"
+                    }
+                ],
+        "contacts": [
+            {
+                "sapContactID": "0000012179",
+                "salutation": "",
+                "title": "",
+                "firstName": "Herr",
+                "lastName": "Test",
+                "contactPhone": "",
+                "contactMobileWhatsApp": "",
+                "contactMobile": "",
+                "email": "",
+                "correspondenceLanguageISO": "",
+                "functionName": "",
+                "departmentName": "",
+                "sourceSystem": null
             }
-        ],
-        "contacts": []
+        ]
     }
 }
