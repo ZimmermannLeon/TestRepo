@@ -1,7 +1,7 @@
 {
     "company": {
         "masterData": {
-            "customerNumber": "1789789782",
+            "customerNumber": "1783589782",
             "name1": "Be8978978ed",
             "name2": "Ve78979887978",
             "name3": "",
@@ -46,7 +46,7 @@
         "companyCodeData": null,
         "contacts": [
             {
-                "sapContactID": "0000012179",
+                "sapContactID": "0000022279",
                 "salutation": "",
                 "title": "",
                 "firstName": "Herr",
