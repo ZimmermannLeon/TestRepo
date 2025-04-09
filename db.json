@@ -59,7 +59,7 @@
                 "functionName": "",
                 "departmentName": "",
                 "sourceSystem": null,
-                "defaultRelation": false
+                "defaultRelation": true
             }
         ]
     }
