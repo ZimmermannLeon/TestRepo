@@ -58,7 +58,8 @@
                 "correspondenceLanguageISO": "",
                 "functionName": "",
                 "departmentName": "",
-                "sourceSystem": null
+                "sourceSystem": null,
+                "defaultRelation": false
             }
         ]
     }
