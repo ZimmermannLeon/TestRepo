@@ -23,7 +23,7 @@
             "customerType": null,
             "customerSince": null,
             "customerInactiveSince": null,
-            "tobaccoMarketWanted": null,
+            "tobaccoMarketWanted": "033",
             "multipleOperatorID": "test1",
             "parcelServiceCustomer": null,
             "clusterActivation": null,
