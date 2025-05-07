@@ -17,7 +17,7 @@
             "customerDeactivatedOn": null,
             "pzo": "Z099",
             "manualCustomerFacility": null,
-            "centralOrderBlock": "03"
+            "centralOrderBlock": ""
         },
         "bmiAttributes": {
             "customerType": null,
