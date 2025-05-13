@@ -41,7 +41,7 @@
             "salesGroupVL": null,
             "mostFrequentOrderDay": null,
             "deliveryDay": null,
-            "priceFile": null
+            "priceFile": "testfile"
         },
         "companyCodeData": null,
         "contacts": [
