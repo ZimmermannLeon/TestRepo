@@ -1,66 +1,83 @@
 {
-    "company": {
-        "masterData": {
-            "customerNumber": "1783669782",
-            "name1": "Be8978978ed",
-            "name2": "Ve78979887978",
-            "name3": "",
-            "street": "Son78989d 56",
-            "postalCode": "47777",
-            "city": "E789879789n",
-            "district": "Üb789789798el",
-            "country": "DE",
-            "nielsenDistrict": "2",
-            "phone1": "045646544",
-            "phone2": "798898795",
-            "customerSince": null,
-            "customerDeactivatedOn": null,
-            "pzo": "Z099",
-            "manualCustomerFacility": null,
-            "centralOrderBlock": ""
-        },
-        "bmiAttributes": {
-            "customerType": null,
-            "customerSince": null,
-            "customerInactiveSince": null,
-            "tobaccoMarketWanted": "033",
-            "multipleOperatorID": "test5",
-            "parcelServiceCustomer": null,
-            "clusterActivation": null,
-            "phaseActivation": null,
-            "evaTerminal": null
-        },
-        "gvlData": null,
-        "salesData": {
-            "salesOrganizationID": null,
-            "divisionID": null,
-            "distributionChannelID": null,
-            "tobaccoCustomer": null,
-            "newProductsService": null,
-            "deliveryOperationLCID": null,
-            "salesGroupVL": null,
-            "mostFrequentOrderDay": null,
-            "deliveryDay": null,
-            "priceFile": null
-        },
-        "companyCodeData": null,
-        "contacts": [
-            {
-                "sapContactID": "0000022279",
-                "salutation": "",
-                "title": "",
-                "firstName": "Herr",
-                "lastName": "Test",
-                "contactPhone": "",
-                "contactMobileWhatsApp": "",
-                "contactMobile": "",
-                "email": "",
-                "correspondenceLanguageISO": "",
-                "functionName": "",
-                "departmentName": "",
-                "sourceSystem": null,
-                "defaultRelation": true
-            }
-        ]
-    }
+  "company": {
+    "masterData": {
+      "customerNumber": "1783669782",
+      "name1": "Be8978978ed",
+      "name2": "Ve78979887978",
+      "name3": "",
+      "street": "Son78989d 56",
+      "postalCode": "47777",
+      "city": "E789879789n",
+      "district": "Üb789789798el",
+      "country": "DE",
+      "nielsenDistrict": "2",
+      "phone1": "045646544",
+      "phone2": "798898795",
+      "customerSince": null,
+      "customerDeactivatedOn": null,
+      "pzo": "Z099",
+      "manualCustomerFacility": null,
+      "centralOrderBlock": ""
+    },
+    "bmiAttributes": {
+      "customerType": null,
+      "customerSince": null,
+      "customerInactiveSince": null,
+      "tobaccoMarketWanted": "033",
+      "multipleOperatorID": "test5",
+      "parcelServiceCustomer": null,
+      "clusterActivation": null,
+      "phaseActivation": null,
+      "evaTerminal": null
+    },
+    "gvlData": null,
+    "salesData": {
+      "salesOrganizationID": null,
+      "divisionID": null,
+      "distributionChannelID": null,
+      "tobaccoCustomer": null,
+      "newProductsService": null,
+      "deliveryOperationLCID": null,
+      "salesGroupVL": null,
+      "mostFrequentOrderDay": null,
+      "deliveryDay": null,
+      "priceFile": null
+    },
+    "functionalPartnerRoles": [
+      {
+        "partnerRoleSapID": "ZO",
+        "partnerCustomerNumber": "Z0YN",
+        "partnerName": null
+      },
+      {
+        "partnerRoleSapID": "WE",
+        "partnerCustomerNumber": "0040661914",
+        "partnerName": null
+      },
+      {
+        "partnerRoleSapID": "ZP",
+        "partnerCustomerNumber": "ZCD7",
+        "partnerName": null
+      }
+    ],
+    "companyCodeData": null,
+    "contacts": [
+      {
+        "sapContactID": "0000022279",
+        "salutation": "",
+        "title": "",
+        "firstName": "Herr",
+        "lastName": "Test",
+        "contactPhone": "",
+        "contactMobileWhatsApp": "",
+        "contactMobile": "",
+        "email": "",
+        "correspondenceLanguageISO": "",
+        "functionName": "",
+        "departmentName": "",
+        "sourceSystem": null,
+        "defaultRelation": true
+      }
+    ]
+  }
 }
