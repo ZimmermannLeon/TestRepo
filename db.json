@@ -16,7 +16,7 @@
       "customerSince": null,
       "customerDeactivatedOn": null,
       "pzo": "Z099",
-      "manualCustomerFacility": null,
+      "manualCustomerFacility": "N",
       "centralOrderBlock": ""
     },
     "bmiAttributes": {
@@ -65,7 +65,7 @@
       "companyCodeID":"2000",
       "paymentTerms":null,
       "dunningArea":"",
-      "dunningLevel":"1",
+      "dunningLevel":"2",
       "lastDunningDate":"19628"
     },
     "contacts": [
