@@ -60,7 +60,14 @@
         "partnerName": null
       }
     ],
-    "companyCodeData": null,
+    "companyCodeData":{ 
+      "companyCodeTimestamp":null,
+      "companyCodeID":"2000",
+      "paymentTerms":null,
+      "dunningArea":"",
+      "dunningLevel":"1",
+      "lastDunningDate":"19628"
+    },
     "contacts": [
       {
         "sapContactID": "0000022270",
