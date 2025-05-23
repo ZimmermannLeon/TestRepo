@@ -25,7 +25,7 @@
       "customerInactiveSince": null,
       "tobaccoMarketWanted": "033",
       "multipleOperatorID": "test5",
-      "parcelServiceCustomer": null,
+      "parcelServiceCustomer": "J",
       "clusterActivation": null,
       "phaseActivation": null,
       "evaTerminal": null
