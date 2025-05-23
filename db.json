@@ -31,17 +31,17 @@
       "evaTerminal": null
     },
     "gvlData": null,
-    "salesData": {
-      "salesOrganizationID": null,
-      "divisionID": null,
-      "distributionChannelID": null,
-      "tobaccoCustomer": null,
-      "newProductsService": null,
-      "deliveryOperationLCID": null,
-      "salesGroupVL": null,
-      "mostFrequentOrderDay": null,
-      "deliveryDay": null,
-      "priceFile": null
+    "salesData":{
+      "salesOrganizationID":"20",
+      "divisionID":"NA",
+      "distributionChannelID":"01",
+      "tobaccoCustomer":null,
+      "newProductsService":"",
+      "deliveryOperationLCID":"25",
+      "salesGroupVL":"S13",
+      "mostFrequentOrderDay":null,
+      "deliveryDay":null,
+      "priceFile":"ZCD7"
     },
     "functionalPartnerRoles": [
       {
