@@ -63,7 +63,7 @@
     "companyCodeData": null,
     "contacts": [
       {
-        "sapContactID": "0000022279",
+        "sapContactID": "0000022270",
         "salutation": "",
         "title": "",
         "firstName": "Herr",
@@ -74,7 +74,7 @@
         "email": "",
         "correspondenceLanguageISO": "",
         "functionName": "",
-        "departmentName": "",
+        "departmentName": "Testdepartment",
         "sourceSystem": null,
         "defaultRelation": true
       }
