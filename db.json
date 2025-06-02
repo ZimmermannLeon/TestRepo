@@ -66,7 +66,7 @@
       "paymentTerms":null,
       "dunningArea":"",
       "dunningLevel":"2",
-      "lastDunningDate":"19628"
+      "lastDunningDate":null
     },
     "contacts": [
       {
