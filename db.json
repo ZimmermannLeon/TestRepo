@@ -68,6 +68,28 @@
       "dunningLevel":"2",
       "lastDunningDate":null
     },
+    "marketingAttributes": [
+      {
+        "marketingGroupID": "NEW_SET_0000000164",
+        "marketingGroupDescription": "",
+        "marketingGroupAttributes": [
+          {
+            "marketingAttributeID": 0,
+            "marketingAttributeName": "SAP_0000001887",
+            "marketingAttributeDescription": "NPS aktuell",
+            "marketingAttributeValueFloat": 0.0,
+            "marketingAttributeValue": "6"
+          },
+          {
+            "marketingAttributeID": 0,
+            "marketingAttributeName": "SAP_0000001918",
+            "marketingAttributeDescription": "NPS Datum (JJJJ MM)",
+            "marketingAttributeValueFloat": 0.0,
+            "marketingAttributeValue": "202402"
+          }
+        ]
+      }
+    ],
     "contacts": [
       {
         "sapContactID": "0000022270",
