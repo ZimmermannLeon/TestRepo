@@ -79,13 +79,6 @@
             "marketingAttributeDescription": "NPS aktuell",
             "marketingAttributeValueFloat": 0.0,
             "marketingAttributeValue": "6"
-          },
-          {
-            "marketingAttributeID": 0,
-            "marketingAttributeName": "SAP_0000001597",
-            "marketingAttributeDescription": "NPS Datum (JJJJ MM)",
-            "marketingAttributeValueFloat": 0.0,
-            "marketingAttributeValue": "Test ll_shopcharacter"
           }
         ]
       }
