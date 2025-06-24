@@ -1,7 +1,7 @@
 {
   "company": {
     "masterData": {
-      "customerNumber": "9983669788",
+      "customerNumber": "9983669755",
       "name1": "Be8978978ed",
       "name2": "Ve78979887978",
       "name3": "",
@@ -59,14 +59,14 @@
         "partnerCustomerNumber": "ZCD7",
         "partnerName": null
       }
-    ],
+    ],https://github.com/ZimmermannLeon/TestRepo/blob/main/db.json
     "companyCodeData":{ 
       "companyCodeTimestamp":null,
       "companyCodeID":"2000",
       "paymentTerms":null,
       "dunningArea":"",
       "dunningLevel":"2",
-      "lastDunningDate":null
+      "lastDunningDate": "18949"
     },
     "marketingAttributes": [
       {
