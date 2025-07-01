@@ -65,7 +65,7 @@
       "companyCodeID":"2000",
       "paymentTerms":null,
       "dunningArea":"",
-      "dunningLevel":"2",
+      "dunningLevel": null,
       "lastDunningDate": null
     },
     "marketingAttributes": [
