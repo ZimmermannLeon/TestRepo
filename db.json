@@ -17,7 +17,9 @@
       "customerDeactivatedOn": null,
       "pzo": "Z099",
       "manualCustomerFacility": "J",
-      "centralOrderBlock": ""
+      "centralOrderBlock": "",
+      "customerClassification": "WE",
+      "regionalMarket": "G2M2"
     },
     "bmiAttributes": {
       "customerType": null,
