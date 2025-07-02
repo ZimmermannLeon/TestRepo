@@ -18,7 +18,7 @@
       "pzo": "Z099",
       "manualCustomerFacility": "J",
       "centralOrderBlock": "",
-      "customerClassification": null,
+      "customerClassification": "WS",
       "regionalMarket": null
     },
     "bmiAttributes": {
