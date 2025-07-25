@@ -18,8 +18,8 @@
       "pzo": "Z099",
       "manualCustomerFacility": "J",
       "centralOrderBlock": "",
-      "customerClassification": "WS",
-      "regionalMarket": null
+      "customerClassification":"WE",
+      "regionalMarket":"G2M2"
     },
     "bmiAttributes": {
       "customerType": null,
